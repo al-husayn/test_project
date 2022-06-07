@@ -1,9 +1,7 @@
+# Deprecated
+This repo is associated with ND004 v1, which is no longer offered in the market. 
 
 # animal-trading-cards
-Animal Trading Cards Project
+Animal Trading Cards Project for Udacity's Web Nanodegree Programs.
 
 
-### Instructions
-Reproduce the styling you see in the design prototype (shown below), while customizing the card with your own animal image and text.
-
-# test_project
